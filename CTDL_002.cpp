@@ -31,6 +31,5 @@ int main(){
         cout<<endl;
     }
     cout<<res.size()<<endl;
-    cout<<endl;
     return 0;
 }
